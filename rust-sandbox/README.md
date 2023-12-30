@@ -1,4 +1,8 @@
-# Rust Code Snippets
+# Rust Sandbox
+
+
+## Quick Start
+Un-comment the file function and mod import to run in main.rs
 
 Run with cargo:
 ``` bash
